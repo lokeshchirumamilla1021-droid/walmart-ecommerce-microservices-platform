@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ff4d582-7009-445d-aa85-6615045026f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Walmart E-Commerce Microservices Platform/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Walmart E-Commerce Microservices Platform/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../Walmart E-Commerce Microservices Platform/product-service">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Walmart E-Commerce Microservices Platform" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000002718443" />
+      <entry key="S30" value="1.00065351374493" />
+      <entry key="S60" value="1.036401861290761" />
+      <entry key="M2" value="1.639669477131898" />
+      <entry key="M5" value="6.640153407205397" />
+      <entry key="M10" value="17.823103434598096" />
+      <entry key="M15" value="29.76229807323591" />
+      <entry key="M30" value="57.36033359907187" />
+      <entry key="H1" value="84.53860391775639" />
+      <entry key="H2" value="106.06553392077446" />
+      <entry key="H4" value="125.63066550588076" />
+      <entry key="D1" value="280.3159031275141" />
+      <entry key="W1" value="685.6674610157683" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="9.540103875133005E-280" />
+      <entry key="S5" value="2.5258282516201667E-112" />
+      <entry key="S10" value="1.8167854100165253E-56" />
+      <entry key="S30" value="3.855348628841913E-19" />
+      <entry key="S60" value="8.68289754769458E-10" />
+      <entry key="M2" value="4.2074706718939206E-5" />
+      <entry key="M5" value="0.029866503340135426" />
+      <entry key="M10" value="0.2869891148410441" />
+      <entry key="M15" value="0.6205340908161623" />
+      <entry key="M30" value="1.3562026876034083" />
+      <entry key="H1" value="2.013882519386479" />
+      <entry key="H2" value="2.45754808265534" />
+      <entry key="H4" value="2.762876593573567" />
+      <entry key="D1" value="8.178269796486557" />
+      <entry key="W1" value="37.94293629602058" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.013508394239185395" />
+      <entry key="MS500" value="0.4227861436887583" />
+      <entry key="S2" value="0.80636224693015" />
+      <entry key="S5" value="0.9175126792291759" />
+      <entry key="S10" value="0.9578688217857961" />
+      <entry key="S30" value="0.9864075380764435" />
+      <entry key="S60" value="1.0292445785369968" />
+      <entry key="M2" value="1.6360228631049645" />
+      <entry key="M5" value="6.664158481186467" />
+      <entry key="M10" value="18.08621124292116" />
+      <entry key="M15" value="30.34607110632937" />
+      <entry key="M30" value="58.671610126488375" />
+      <entry key="H1" value="86.51652474702477" />
+      <entry key="H2" value="108.49984002563158" />
+      <entry key="H4" value="128.3795915422561" />
+      <entry key="D1" value="288.48761699439206" />
+      <entry key="W1" value="723.6078149654761" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3HSTLQaafwyh29nSApGCix3jMSA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Gradle.Build product-service.executor": "Run",
+    "Gradle.ProductServiceTest.shouldGetAllProducts.executor": "Run",
+    "Gradle.ProductServiceTest.shouldThrowExceptionWhenProductNotFound.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.ProductServiceApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/chiru/IdeaProjects/Walmart E-Commerce Microservices Platform/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.ProductServiceApplication">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Walmart E-Commerce Microservices Platform." />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceTest.shouldGetAllProducts" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../Walmart E-Commerce Microservices Platform/product-service" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.example.productservice.ProductServiceTest.shouldGetAllProducts&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProductServiceTest.shouldThrowExceptionWhenProductNotFound" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../Walmart E-Commerce Microservices Platform/product-service" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.example.productservice.ProductServiceTest.shouldThrowExceptionWhenProductNotFound&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProductServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="DB_PASSWORD" value="Chinnu@2000" />
+      </envs>
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="product-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.productservice.ProductServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ProductServiceTest.shouldGetAllProducts" />
+        <item itemvalue="Gradle.ProductServiceTest.shouldThrowExceptionWhenProductNotFound" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ff4d582-7009-445d-aa85-6615045026f8" name="Changes" comment="" />
+      <created>1785860415489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785860415489</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../Walmart E-Commerce Microservices Platform/src/Main.java</url>
+          <line>3</line>
+          <properties class="Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../Walmart E-Commerce Microservices Platform/product-service/src/test/java/com/example/productservice/ProductServiceTest.java</url>
+          <line>99</line>
+          <properties class="com.example.productservice.ProductServiceTest" method="shouldGetAllProducts">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/../Walmart E-Commerce Microservices Platform/product-service/src/main/java/com/example/productservice/ProductServiceApplication.java</url>
+          <line>6</line>
+          <placement>INTER_LINE</placement>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
